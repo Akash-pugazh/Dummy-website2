@@ -14,7 +14,7 @@ h1, h2, h3, p, body{
 .agrid{
   display: flex;
   flex-direction: column;
-  background-image: url(Images/firstbg1.jpg);
+  background-image: url(firstbg1.jpg);
   background-position: center;
   background-size: cover;
   font-family: Arial, Helvetica, sans-serif;
